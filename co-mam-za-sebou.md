@@ -25,7 +25,7 @@ a je tam prostor a celkem neubíjející povrchy ;)
 
 Na konci léta 2014 jsem si byl zajezdit v Budapešti. Cestu z jižního Pešťského autobusového nádraži na sever Pešti jsem
 zvládl na prkně, s naloženou krosnou na zádech. Bylo fajn, že se mi v autobuse nenabil mobil, takže moje jediná navigace
- byla směrová navigaci, kterou jsem si vzal jako zalohu, kdyby se něco opravdu podělalo :) Na ubytování jsem dorazil po
+ byla směrová GPS, kterou jsem si vzal jako zalohu, kdyby se něco opravdu podělalo :) Na ubytování jsem dorazil po
  pár hodinách, dal si sprchu a vyrazil brázdit město na prkně, to už teda bez krosny.
 
 <iframe src="https://mapsengine.google.com/map/u/0/embed?mid=zKt86QEB5D7Y.kzG4DDm5rfdQ" width="100%" height="480"></iframe>
