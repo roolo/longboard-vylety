@@ -10,3 +10,6 @@ github_username:  roolo
 
 # Build settings
 markdown: kramdown
+
+exclude: [CNAME, config.ru, Gemfile, Gemfile.lock, config.ru, public, Rakefile.rb, README, spec, tasks, tmp]
+
