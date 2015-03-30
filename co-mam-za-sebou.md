@@ -31,3 +31,8 @@ zvládl na prkně, s naloženou krosnou na zádech. Bylo fajn, že se mi v autob
 <iframe src="https://mapsengine.google.com/map/u/0/embed?mid=zKt86QEB5D7Y.kzG4DDm5rfdQ" width="100%" height="480"></iframe>
 
 Tuhle mapu jsem splácal podle paměti. Ve skutečnosti jsem to hodně objížděl a vracel se.
+
+Pár fotek z Budapešťského výletu
+
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<div class="g-post" data-href="https://plus.google.com/+MailoSvetel/posts/AZGTuSXrD3w"></div>
