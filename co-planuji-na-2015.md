@@ -2,6 +2,7 @@
 layout: page
 title: Co plánuji na 2015
 permalink: /co-planuji-na-2015.html
+lang: cs
 ---
 
 (kam dojedu, tam dojedu)

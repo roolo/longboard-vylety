@@ -2,6 +2,7 @@
 layout: page
 title: Co mám za sebou
 permalink: /co-mam-za-sebou.html
+lang: cs
 ---
 
 ## Metra

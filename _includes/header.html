@@ -14,11 +14,23 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}
+        {% assign pages = (site.pages | where: 'lang', page.lang) %}
+        {% for page in pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
+      </div>
+
+      <div class="nav-lang-box">
+        [
+          {% if page.lang == 'cs' %}
+          <a href="/en/">en</a>
+          {% endif %}
+          {% if page.lang == 'en' %}
+          <a href="/">cs</a>
+          {% endif %}
+        ]
       </div>
     </nav>
 
