@@ -5,6 +5,11 @@ permalink: /co-mam-za-sebou.html
 lang: cs
 ---
 
+## Video výlety
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/videoseries?list=PLbReVCIZw3JdUxJTONsMY7Elz57mni7Ud" frameborder="0" allowfullscreen></iframe>
+
+
 ## Metra
 
 Minulý rok mě napadlo zkusit si projet místy kde jsou zastávky metra a než padla sezóna tak jsem projel všechny.

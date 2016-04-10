@@ -5,6 +5,10 @@ permalink: /en/what-is-behind-me.html
 lang: en
 ---
 
+## Video trips
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/videoseries?list=PLbReVCIZw3JdUxJTONsMY7Elz57mni7Ud" frameborder="0" allowfullscreen></iframe>
+
 ## Subways
 
 Last year i've got idea try to travel places where are subway stations and before end of season, i really did travel them all.
