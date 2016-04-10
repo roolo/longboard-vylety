@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My plans for 2015
-permalink: /en/my-plans-for-2015.html
+title: My plans
+permalink: /en/my-plans.html
 lang: en
 ---
 
