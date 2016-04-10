@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Co plánuji na 2015
-permalink: /co-planuji-na-2015.html
+title: Co plánuji
+permalink: /co-planuji.html
 lang: cs
 ---
 
 (kam dojedu, tam dojedu)
-
-Teď v zimě nejezdím. Je mokro a občas dost zima.
 
 - na jaře, nebo až se nějak vylepší počasí chci začít jezdit z práce pár kilometrů
 - cca po dvou týdnech (až se rozjezdím) bych k tomu na víkendy přidal přejíždění tras metra (po zemi) a třeba i jiné plánované
