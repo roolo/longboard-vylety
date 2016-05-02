@@ -8,7 +8,7 @@ lang: cs
 Omlouvám se, že nedávám přímo svůj kontakt, ale na internetu je spousty robotů a s těmi bych na výletech určitě
 neudržel krok ;)
 
-Můžeš se se mnou spojit i na celé řade sociálních služeb -- [http://about.me/mailo.svetel](http://about.me/mailo.svetel)
+Můžeš se se mnou spojit i na celé řade sociálních služeb -- [http://him.rlnd.cz](http://him.rlnd.cz)
 
 <iframe   src="https://docs.google.com/forms/d/1Q3qdoscrdhaH2kZpLbQMCC5zqaJBZR55-DkIPMt5Z04/viewform?embedded=true"
           width="100%"
