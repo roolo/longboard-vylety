@@ -7,8 +7,32 @@ lang: cs
 
 ## Video výlety
 
-<iframe width="100%" height="400px" src="https://www.youtube.com/embed/videoseries?list=PLbReVCIZw3JdUxJTONsMY7Elz57mni7Ud" frameborder="0" allowfullscreen></iframe>
+### Vimeo
 
+<style id="badge-styles">
+ /* You can modify these CSS styles */
+ .vimeoBadge { margin: 0; padding: 0; font: normal 11px verdana,sans-serif; }
+ .vimeoBadge img { border: 0; }
+ .vimeoBadge a, .vimeoBadge a:link, .vimeoBadge a:visited, .vimeoBadge a:active { color: #3A75C4; text-decoration: none; cursor: pointer; }
+ .vimeoBadge a:hover { color:#00CCFF; }
+ .vimeoBadge #vimeo_badge_logo { margin-top:10px; width: 57px; height: 16px; }
+ .vimeoBadge .credit { font: normal 11px verdana,sans-serif; }
+ .vimeoBadge .clip { padding:0; float:left; margin:0 10px 10px 0; line-height:0; }
+ .vimeoBadge.vertical .clip { float: none; }
+ .vimeoBadge .caption { font: normal 11px verdana,sans-serif; overflow:hidden; width: auto; height: 30px; }
+ .vimeoBadge .clear { display: block; clear: both; visibility: hidden; }
+ .vimeoBadge .s160 { width: 160px; } .vimeoBadge .s80 { width: 80px; } .vimeoBadge .s100 { width: 500px; } .vimeoBadge .s200 { width: 200px; }
+ </style><div id="badge">
+<div class="vimeoBadge horizontal">
+<script src="https://vimeo.com/mailo/badgeo/?script=1&badge_layout=horizontal&badge_quantity=6&badge_size=200&badge_stream=album&show_titles=no&badge_album=4029994&badge_channel=91424&badge_group=3679"></script>
+</div>
+</div>
+
+<div style="clear: both"></div>
+
+### YouTube
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/videoseries?list=PLbReVCIZw3JdUxJTONsMY7Elz57mni7Ud" frameborder="0" allowfullscreen></iframe>
 
 ## Metra
 
